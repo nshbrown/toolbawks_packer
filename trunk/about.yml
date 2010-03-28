@@ -1,0 +1,7 @@
+author: Nathaniel Brown
+email: nshb@inimit.com
+homepage: http://www.toolbawks.com
+summary: Toolbawks Packer provides seamless Stylesheet and JavaScript compression integration into your Rails app
+description: Toolbawks Packer provides seamless Stylesheet and JavaScript compression integration into your Rails app. Requires no further integration other than adding one line of code to your layout.
+license: MIT
+version: 1.0.0
